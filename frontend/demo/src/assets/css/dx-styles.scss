@@ -1,0 +1,23 @@
+.dx-texteditor {
+  @apply py-0.5;
+}
+
+dx-data-grid {
+  @apply m-4 overflow-hidden rounded-lg shadow-lg bg-backgroundComponentLight dark:bg-backgroundComponentDark;
+}
+
+.dx-datagrid-header-panel {
+  @apply px-2.5;
+}
+
+.dxDraggingScreen {
+  @apply w-screen
+}
+
+.dxDraggingSceenDraggingElement {
+  @apply py-2 px-12 mr-8 border border-colorPrimary
+}
+
+.dx-template-wrapper.dx-item-content.dx-scheduler-appointment-content {
+  @apply p-0
+}
